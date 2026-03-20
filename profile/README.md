@@ -16,15 +16,15 @@ Senior Backend Architect with 15+ years of experience building **Scalable System
 
 ### 📦 Featured Open Source
 
-#### [🚀 Laravel Approval Engine](https://github.com)
+#### [🚀 Laravel Approval Engine](https://github.com/apurba-labs/laravel-approval-engine)
 A modular, batch-based, multi-stage approval workflow engine for enterprise Laravel applications.
 *Featured: Batching logic, Event-driven architecture, and Multi-stage transitions.*
 
-#### [🤖 FastAPI AI PDF Extractor](https://github.com)
+#### [🤖 FastAPI AI PDF Extractor](https://github.com/apurba-labs/llm-pdf-extractor)
 High-performance tool to extract structured data from PDFs using Large Language Models (LLMs).
 
-#### [🏗️ Microservices FastAPI Template](https://github.com)
-Production-ready boilerplate for scalable microservice architectures.
+#### [🏗️ Microservices FastAPI Template](https://github.com/apurba-labs/teachverse-auth)
+Production-ready authentication & hierarchical authorization (RBAC/IAM) for FastAPI microservices.
 
 ---
 
