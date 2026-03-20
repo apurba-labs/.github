@@ -1,30 +1,44 @@
 # Hi, I'm Apurba Singh 👋
-### Founder & Senior Backend Engineer @ Apurba Labs
+### Founder & Senior Backend Architect @ Apurba Labs
 
-Senior Backend Architect with 15+ years of experience building **Scalable Systems**, **SaaS Platforms**, and **Distributed Architectures**.
+**15+ Years Experience** building Scalable Backend Architectures, SaaS Platforms, and Distributed Systems.
 
 ---
 
-### 🛠️ Core Stack
+### 🛠️ Tech Stack & Infrastructure
 
-- **Languages:** PHP (Laravel), Python (FastAPI, Django), Golang, Node.js
-- **Architecture:** Distributed Systems, Microservices, Workflow Engines
-- **Infrastructure:** AWS, Docker, CI/CD, Redis, PostgreSQL, MySQL
-- **Emerging:** AI-Powered Backends & LLM Integrations
+- **Languages:** PHP (Laravel), Python (FastAPI, Django), Golang (Microservices), Node.js
+- **Messaging & Event Streaming:** Kafka, RabbitMQ, Redis Pub/Sub
+- **Cloud & Orchestration:** Docker, Kubernetes (K8s), AWS, Terraform
+- **Communication:** gRPC, REST, GraphQL, WebSockets
+- **Databases:** PostgreSQL, MySQL, Redis, MongoDB
+
+---
+
+### 🏗️ Architectural Focus
+
+- **High-Performance APIs:** Specialized in gRPC and FastAPI for low-latency communication.
+- **Workflow Engines:** Developing modular systems for complex enterprise approvals.
+- **Event-Driven Microservices:** Building resilient systems using Kafka and RabbitMQ.
+- **Containerization:** Production-grade Kubernetes orchestration and CI/CD pipelines.
 
 ---
 
 ### 📦 Featured Open Source
 
 #### [🚀 Laravel Approval Engine](https://github.com/apurba-labs/laravel-approval-engine)
-A modular, batch-based, multi-stage approval workflow engine for enterprise Laravel applications.
-*Featured: Batching logic, Event-driven architecture, and Multi-stage transitions.*
+Modular, batch-based, multi-stage approval workflow engine.
+*Stack: Laravel, Event-Driven, Batching Logic.*
 
 #### [🤖 FastAPI AI PDF Extractor](https://github.com/apurba-labs/llm-pdf-extractor)
-High-performance tool to extract structured data from PDFs using Large Language Models (LLMs).
+Extracting structured data from PDFs using LLMs and high-performance Python.
+*Stack: FastAPI, Python, AI/ML.*
 
 #### [🏗️ Microservices FastAPI Template](https://github.com/apurba-labs/teachverse-auth)
 Production-ready authentication & hierarchical authorization (RBAC/IAM) for FastAPI microservices.
+*Stack: Python, gRPC, Docker, Kafka.*
+
+
 
 ---
 
@@ -37,13 +51,12 @@ Production-ready authentication & hierarchical authorization (RBAC/IAM) for Fast
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
 
-- **LinkedIn:** [Apurba Narayan Singh](https://www.linkedin.com/in/apurba-narayan-singh/)
-- **Website:** [apurbasingh.com](https://apurbasingh.com) (Optional)
-- **Focus:** Currently open to collaborating on High-Performance APIs and AI Automation.
+- **LinkedIn:** [Apurba Narayan Singh](https://www.linkedin.com/in/apurba-narayan-singh)
+- **Focus:** Currently building high-concurrency systems and AI-integrated workflow automation.
 
 ---
 <div align="center">
-  <sub>Built with ❤️ by Apurba Labs</sub>
+  <sub>Building the future of scalable workflows @ Apurba Labs</sub>
 </div>
