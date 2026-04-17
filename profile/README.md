@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/apurba-labs/.github/main/profile/gotihub-logo.jpeg" width="150" alt="GotiHub Logo" />
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/453/wecoded2026-completion-badge.png" width="80" alt="Gothihub Logo">
   <h1>Hi, I'm Apurba Singh 👋</h1>
   <h3>Founder & Senior Backend Architect @ Apurba Labs (Scaling GotiHub)</h3>
   <p><b>15+ Years Experience</b> building scalable backend architectures, SaaS platforms, and distributed systems.</p>
