@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/453/wecoded2026-completion-badge.png" width="80" alt="Gothihub Logo">
+  <img src="https://raw.githubusercontent.com/apurba-labs/.github/main/profile/gotihub-logo.jpeg" width="150" alt="GotiHub Logo" />
   <h1>Hi, I'm Apurba Singh 👋</h1>
   <h3>Founder & Senior Backend Architect @ Apurba Labs (Scaling GotiHub)</h3>
   <p><b>15+ Years Experience</b> building scalable backend architectures, SaaS platforms, and distributed systems.</p>
@@ -11,7 +11,7 @@
 
 | Badge | Event | Description |
 | :--- | :--- | :--- |
-| <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/wecoded-2026-completion.png" width="60"> | **WeCoded 2026** | Awarded for architectural deep-dive in the global engineering challenge. |
+| <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/453/wecoded2026-completion-badge.png" width="80"> | **WeCoded 2026** | Awarded for architectural deep-dive in the global engineering challenge. |
 | ![Upwork](https://img.shields.io/badge/Upwork-Rising_Talent-6fda44?style=flat&logo=upwork) | **Upwork** | Recognized for high-quality delivery and strong client satisfaction. |
 
 > 📚 **Technical Insights & Thought Leadership:** > I write about **Architectural Maturity**, IAM, and scalable systems on **[DEV.to/apurbalabs](https://dev.to/apurbalabs)**.  
