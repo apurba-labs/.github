@@ -63,7 +63,7 @@ High-performance pipeline for structured data extraction using LLMs.
 
 - **LinkedIn:** [linkedin.com/in/apurba-narayan-singh](https://www.linkedin.com/in/apurba-narayan-singh)
 - **Email:** business@apurbalabs.com
-- **Work with me:** [Upwork Rising Talent Profile](https://www.upwork.com/freelancers/~your_id)
+- **Work with me:** [Upwork Rising Talent Profile](https://www.upwork.com/freelancers/~01f57564272c903d03?viewMode=1)
 
 <div align="center">
   <sub>🚀 Building the future of scalable workflows @ <b>Apurba Labs</b></sub>
