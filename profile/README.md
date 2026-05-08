@@ -12,7 +12,7 @@
 | Badge | Event | Description |
 | :--- | :--- | :--- |
 | <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/453/wecoded2026-completion-badge.png" width="80"> | **WeCoded 2026** | Recognized for architectural deep-dive in global engineering challenge |
-| <img src="https://amazonaws.com" width="80"> | **Google Cloud NEXT** | Awarded for completing the Google Cloud NEXT Writing Challenge |
+| <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/461/GC_NEXT-26-04.png?utm_source=chatgpt.com" width="80"> | **Google Cloud NEXT** | Awarded for completing the Google Cloud NEXT Writing Challenge |
 
 ---
 
