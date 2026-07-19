@@ -7,13 +7,25 @@
 
 ---
 
-## 🏆 Recognition
+## 🌐 Connect With Me
 
-| Badge | Event | Description |
-| :--- | :--- | :--- |
-| <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/453/wecoded2026-completion-badge.png" width="80"> | **WeCoded 2026** | Recognized for architectural deep-dive in global engineering challenge |
-| <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/461/GC_NEXT-26-04.png?utm_source=chatgpt.com" width="80"> | **Google Cloud NEXT** | Awarded for completing the Google Cloud NEXT Writing Challenge |
+<p align="center">
+  <a href="https://dev.to/apurbalabs">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/apurba-narayan-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://devpost.com/apurbalabs">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.com/users/apurbalabs">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 🧠 What I Focus On
