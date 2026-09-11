@@ -127,15 +127,12 @@ I write about backend architecture, IAM, distributed systems, and production eng
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apurba-labs&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=apurba-singh&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=apurba-labs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurba-labs&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/apurba-singh?label=Org%20Followers&style=for-the-badge&color=0077B5&logo=github" />
+  <img src="https://img.shields.io/github/stars/apurba-singh?label=Org%20Stars&style=for-the-badge&color=0A0A0A&logo=github" />
 </p>
 
 --- 
