@@ -46,29 +46,7 @@
 
 </p>
 
----
 
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=apurba-labs&label=Profile%20Views&style=for-the-badge)
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=apurba-labs&show_icons=true&include_all_commits=true&count_private=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=apurba-labs"
-    height="165"
-    alt="GitHub Streak"
-  />
-
-</div>
 
 ---
 
@@ -145,6 +123,19 @@ I write about backend architecture, IAM, distributed systems, and production eng
 
 ---
 
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=apurba-labs&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apurba-labs&show_icons=true&theme=radial" alt="GitHub Stats" />
+</p>
+
+--- 
+
 ## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/apurba-narayan-singh
@@ -157,3 +148,4 @@ I write about backend architecture, IAM, distributed systems, and production eng
   <sub>Building reliable systems that work in production.</sub>
 
 </div>
+
