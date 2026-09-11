@@ -51,12 +51,7 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=apurba-labs&label=Profile%20Views&style=for-the-badge"
-    alt="Profile Views"
-  />
-
+  <img src="https://komarev.com/ghpvc/?username=apurba-labs&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
