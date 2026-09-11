@@ -127,7 +127,7 @@ I write about backend architecture, IAM, distributed systems, and production eng
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apurba-labs&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <<img src="https://github-readme-stats.vercel.app/api?username=apurba-singh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
