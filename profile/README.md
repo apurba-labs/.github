@@ -127,14 +127,11 @@ I write about backend architecture, IAM, distributed systems, and production eng
 ## 📊 GitHub Activity
 
 <p align="center">
-  <<img src="https://github-readme-stats.vercel.app/api?username=apurba-singh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=apurba-labs&color=blueviolet&style=flat-square" alt="Profile Views" /><br/><br/>
+  <img src="https://img.shields.io/github/followers/apurba-singh?label=Followers&style=for-the-badge&color=0077B5&logo=github" />
+  <img src="https://img.shields.io/github/stars/apurba-singh?label=Total%20Stars&style=for-the-badge&color=0A0A0A&logo=github" />
+  <img src="https://img.shields.io/github/search/apurba-singh/apurba-singh/main?label=Commits&style=for-the-badge&color=2eb85c&logo=github" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/apurba-singh?label=Org%20Followers&style=for-the-badge&color=0077B5&logo=github" />
-  <img src="https://img.shields.io/github/stars/apurba-singh?label=Org%20Stars&style=for-the-badge&color=0A0A0A&logo=github" />
-</p>
-
 --- 
 
 ## 📫 Contact
